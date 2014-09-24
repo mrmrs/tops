@@ -1,0 +1,16 @@
+/*
+  Box Sizing
+*/
+
+div,
+article,
+section,
+main,
+footer,
+header,
+form,
+fieldset,
+input[type="text"]{
+  box-sizing: border-box;
+}
+
